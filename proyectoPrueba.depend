@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1597547063 source:c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\main.cpp
+	<bits/stdc++.h>
+
+1433683569 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\fparser.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	<set>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cassert>
+	<limits>
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	"extrasrc/fp_identifier_parser.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<iomanip>
+	<sstream>
+
+1433683569 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\fpconfig.hh
+
+1433683569 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\extrasrc\fptypes.hh
+	"../fpconfig.hh"
+	<cstring>
+	<map>
+	<vector>
+
+1433683569 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\extrasrc\fpaux.hh
+	"fptypes.hh"
+	<cmath>
+	"mpfr/MpfrFloat.hh"
+	"mpfr/GmpInt.hh"
+	<complex>
+
+1352618778 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\extrasrc\fp_identifier_parser.inc
+
+1433683603 c:\users\toromax\desktop\cursos\3\programacion\proyectoprueba\fparser\extrasrc\fp_opcode_add.inc
+
